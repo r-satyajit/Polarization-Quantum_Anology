@@ -26,7 +26,7 @@ Built with **Three.js** and **Plotly.js**, this tool provides a dynamic 3D rende
 
 ---
 
-## 🛠️ Project Structure
+## Project Structure
 
 ```text
 .
